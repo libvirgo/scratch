@@ -1,5 +1,2 @@
 CONFIGTEST
-lskjdlj
-TESTs
-world
-sdkdsdl
+test content
